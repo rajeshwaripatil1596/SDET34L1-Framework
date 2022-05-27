@@ -24,7 +24,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This is super class for all the test script classes
  * @author ACER
- *
+ * It is super class for all the test script classes
  */
 public class BaseClass {
 	
